@@ -1,0 +1,5 @@
+streamlit==1.37.0
+openai==1.35.6
+requests==2.32.3
+beautifulsoup4==4.12.3
+duckduckgo_search==6.1.3
